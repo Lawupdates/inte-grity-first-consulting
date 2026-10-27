@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://lawupdates.github.io/inte-grity-first-consulting/sitemap.xml
