@@ -3,6 +3,7 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Manual and automatic publishing enabled
 permissions:
   contents: read
   pages: write
